@@ -1,0 +1,44 @@
+stream|index=0|codec_type=audio|tag:language=eng
+stream|index=1|codec_type=subtitle|tag:language=eng
+stream|index=2|codec_type=subtitle|tag:language=eng|tag:title=English (SDH)
+stream|index=3|codec_type=subtitle|tag:language=ara
+stream|index=4|codec_type=subtitle|tag:language=bul
+stream|index=5|codec_type=subtitle|tag:language=chi
+stream|index=6|codec_type=subtitle|tag:language=chi
+stream|index=7|codec_type=subtitle|tag:language=chi
+stream|index=8|codec_type=subtitle|tag:language=cze
+stream|index=9|codec_type=subtitle|tag:language=dan
+stream|index=10|codec_type=subtitle|tag:language=dut
+stream|index=11|codec_type=subtitle|tag:language=est
+stream|index=12|codec_type=subtitle|tag:language=fin
+stream|index=13|codec_type=subtitle|tag:language=fre|tag:title=French (Canada)
+stream|index=14|codec_type=subtitle|tag:language=fre|tag:title=French (France)
+stream|index=15|codec_type=subtitle|tag:language=ger
+stream|index=16|codec_type=subtitle|tag:language=gre
+stream|index=17|codec_type=subtitle|tag:language=heb
+stream|index=18|codec_type=subtitle|tag:language=hin
+stream|index=19|codec_type=subtitle|tag:language=hun
+stream|index=20|codec_type=subtitle|tag:language=ind
+stream|index=21|codec_type=subtitle|tag:language=ita
+stream|index=22|codec_type=subtitle|tag:language=jpn
+stream|index=23|codec_type=subtitle|tag:language=kor
+stream|index=24|codec_type=subtitle|tag:language=lav
+stream|index=25|codec_type=subtitle|tag:language=lit
+stream|index=26|codec_type=subtitle|tag:language=may
+stream|index=27|codec_type=subtitle|tag:language=nor
+stream|index=28|codec_type=subtitle|tag:language=pol
+stream|index=29|codec_type=subtitle|tag:language=por
+stream|index=30|codec_type=subtitle|tag:language=por|tag:title=Portuguese (Brazil)
+stream|index=31|codec_type=subtitle|tag:language=rus
+stream|index=32|codec_type=subtitle|tag:language=slo
+stream|index=33|codec_type=subtitle|tag:language=slv
+stream|index=34|codec_type=subtitle|tag:language=spa|tag:title=Spanish (Latin America)
+stream|index=35|codec_type=subtitle|tag:language=spa|tag:title=Spanish (Spain)
+stream|index=36|codec_type=subtitle|tag:language=swe
+stream|index=37|codec_type=subtitle|tag:language=tam
+stream|index=38|codec_type=subtitle|tag:language=tel
+stream|index=39|codec_type=subtitle|tag:language=tha
+stream|index=40|codec_type=subtitle|tag:language=tur
+stream|index=41|codec_type=subtitle|tag:language=ukr
+stream|index=42|codec_type=subtitle|tag:language=vie
+stream|index=43|codec_type=video|tag:language=eng

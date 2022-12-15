@@ -1,0 +1,34 @@
+ara aaakoekoek ara ar Arabic arabe Arabisch
+bul aaakoekoek bul bg Bulgarian bulgare Bulgarisch
+cze aaakoekoek dak   Dakota dakota Dakota-Sprache
+dan aaakoekoek dan da Danish danois Dänisch
+dut aaakoekoek dyu   Dyula dioula Dyula-Sprache
+eng aaakoekoek eng aaakoekoek eng aaakoekoek eng en English anglais Englisch
+est aaakoekoek est et Estonian estonien Estnisch
+fin aaakoekoek fin fi Finnish finnois Finnisch
+fre aaakoekoek frm   French, Middle (ca.1400-1600) français moyen (1400-1600) Mittelfranzösisch
+ger aaakoekoek gez   Geez guèze Altäthiopisch
+gre aaakoekoek grn gn Guarani guarani Guaraní-Sprache
+heb aaakoekoek heb he Hebrew hébreu Hebräisch
+hin aaakoekoek hin hi Hindi hindi Hindi
+hun aaakoekoek hun hu Hungarian hongrois Ungarisch
+ind aaakoekoek ind id Indonesian indonésien Bahasa Indonesia
+ita aaakoekoek ita it Italian italien Italienisch
+jpn aaakoekoek jpn ja Japanese japonais Japanisch
+kor aaakoekoek kor ko Korean coréen Koreanisch
+lav aaakoekoek lav lv Latvian letton Lettisch
+lit aaakoekoek lit lt Lithuanian lituanien Litauisch
+may aaakoekoek mdf   Moksha moksa Mokscha-Sprache
+nor aaakoekoek nor no Norwegian norvégien Norwegisch
+pol aaakoekoek pol pl Polish polonais Polnisch
+por aaakoekoek por pt Portuguese portugais Portugiesisch
+rus aaakoekoek rus ru Russian russe Russisch
+slo aaakoekoek slv aaakoekoek slv sl Slovenian slovène Slowenisch
+spa aaakoekoek spa es Spanish; Castilian espagnol; castillan Spanisch
+swe aaakoekoek swe sv Swedish suédois Schwedisch
+tam aaakoekoek tam ta Tamil tamoul Tamil
+tel aaakoekoek tel te Telugu télougou Telugu-Sprache
+tha aaakoekoek tha th Thai thaï Thailändisch
+tur aaakoekoek tur tr Turkish turc Türkisch
+ukr aaakoekoek ukr uk Ukrainian ukrainien Ukrainisch
+vie aaakoekoek vie vi Vietnamese vietnamien Vietnamesisch
